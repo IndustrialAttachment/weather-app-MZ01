@@ -17,9 +17,9 @@ This project is a weather viewer website created using HTML, CSS, and JavaScript
 
 # Website Preview
    - **Before Search:**
-      ![image](https://github.com/chintamani-pala/weather-app-using-html-css-js/assets/111286013/61f8ada1-e0e1-42e5-8bd9-3cd31e302e72)
+      ![image](https://img001.prntscr.com/file/img001/oXOP_zAJRWyvB28vu1ZYaQ.png)
    - **After Search:**
-      ![image](https://prnt.sc/fkAbCkLlCfgX)
+      ![image](https://img001.prntscr.com/file/img001/NS-N4iWPTXCayXeI5tfXUA.png)
 
 
 
